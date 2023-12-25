@@ -7,4 +7,6 @@ branding:
 runs:
   using: "node12"
   main: "./index.js"
-uses: puiiyuen/leetcode-box@v0.1.2
+              - name: leetcode-box
+                uses: puiiyuen/leetcode-box@v0.1.2
+            
