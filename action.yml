@@ -3,7 +3,8 @@ author: puiiyuen
 description: "Update a pinned gist to show your LeetCode stats"
 branding:
   icon: code
-  color: blue
+  color: blueviolet
 runs:
   using: "node12"
   main: "./index.js"
+uses: puiiyuen/leetcode-box@v0.1.2
